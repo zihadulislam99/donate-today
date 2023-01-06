@@ -125,6 +125,10 @@ hr{
     padding: 20px 0px;
 }
 
+.con-tow-description{
+    text-align: left;
+}
+
 .con-three{
     display: flex;
     gap: 50px;
