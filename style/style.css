@@ -175,7 +175,8 @@ input{
     padding: 16px 40px;
     border: none;
     border-radius: 5px;
-    background: #dddddd;
+    background: #f1f0f0;
+    text-align: left;
 }
 
 button{
