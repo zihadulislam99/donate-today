@@ -20,7 +20,7 @@ p{
 }
 
 header{
-    background: url(images/donation1.jpg);
+    background: url(/images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 80px 40px;
@@ -67,6 +67,13 @@ li{
     background-color: #fafafa;
     padding: 30px;
     border-radius: 5px;
+}
+
+.donate-taka-tow{
+    border: 2px solid #ff5a5a;
+    background: #ffeeee;
+    color: #ff5a5a;
+    ;
 }
 
 ul{
