@@ -64,17 +64,118 @@ section{
 li{
     list-style: none;
     margin-left: 50px;
+    background-color: #fafafa;
+    padding: 30px;
+    border-radius: 5px;
 }
 
-.ul{
+ul{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 50px 200px;
+    font-weight: 800;
+    font-size: 30px;
+    
+}
+
+hr{
+    margin: 15px;
+}
+
+.con-tow{
+    display: flex;
+    gap: 20px;
+
+}
+
+.con-tow-one{
+    text-align: left;
+    padding: 60px 30px;
+    background: #e9faffb9;
+    border-radius: 5px;
+}
+
+.con-tow-tow{
+    text-align: left;
+    padding: 60px 30px;
+    background: #ffe0f1c2;
+    border-radius: 5px;
+}
+
+.con-tow-three{
+    text-align: left;
+    padding: 60px 30px;
+    background: #ffffdab9;
+    border-radius: 5px;
+}
+
+.con-tow-tital{
+    text-align: left;
+    font-weight: 800;
+    font-size: 20px;
+    color: #000;
+    padding: 20px 0px;
+}
+
+.con-three{
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.con-three-box{
+    margin: auto 10px;
+}
+
+.con-three-title{
+    text-align: left;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.con-three-description{
+    text-align: left;
+    font-size: 15px;
+    margin: 20px 0px;
+}
+
+.con-three img{
+    width: 450px;
+    height: 450px;
+    border-radius: 5px;
 }
 
 
 
+
+.mail{
+    margin: 0 20px 80px 20px;
+}
+
+.mail-box{
+    margin: 0px 60px;
+    background: #fffed5;
+    padding: 50px;
+}
+
+input{
+    padding: 16px 40px;
+    border: none;
+    border-radius: 5px;
+    background: #dddddd;
+}
+
+button{
+    background-color: #ff5a5a;
+    color: #ffffff;
+    font-weight: 200;
+    font-size: 15px;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+    margin-left: -10px;
+}
 
 footer{
     background: #000000;
