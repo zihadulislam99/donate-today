@@ -20,7 +20,7 @@ p{
 }
 
 header{
-    background: url(images/donation1.jpg);
+    background: url(/images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 80px 40px;
